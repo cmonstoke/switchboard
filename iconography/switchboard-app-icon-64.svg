@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Switchboard app icon">
+  <rect width="64" height="64" rx="14" fill="#2563eb"/>
+  <g fill="none" stroke="#fff" stroke-width="4.8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M18 8h28v12.5H18z"/>
+    <path d="M24.5 14.25h15"/>
+    <path d="M46 56H18V43.5h28z"/>
+    <path d="M39.5 49.75h-15"/>
+    <path d="M32 20.5
+             C32 25.2 47 25.2 47 32
+             C47 38.8 17 25.2 17 32
+             C17 38.8 32 38.8 32 43.5"/>
+  </g>
+</svg>
